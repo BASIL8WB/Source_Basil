@@ -28,14 +28,14 @@ LOGGER_ID = int(getenv("OWNER_ID","1872738364"))
 # Get this value from @FallenxBot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", 6094238403))
 # 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 ⛥ 𓏺 Yousef .tele_https://t.me/y_o_v
-YAFA_CHANNEL = getenv("YAFA_CHANNEL", "https://t.me/cecrr")
+YAFA_CHANNEL = getenv("YAFA_CHANNEL", "https://t.me/L_K_VV")
 YAFA_NAME = getenv("YAFA_NAME", "• اضغط هنا للاشتراك •")#لاتبعصها
 CHANNEL_SUDO = getenv("CHANNEL_SUDO", "cecrr")# Fill # Fill this variable if your upstream repository is private
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/B_a_r/10119")#قناة السورس
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/cecrr")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/L_K_VV")
 CHANNEL_NAME = getenv("CHANNEL_NAME", "كِتابات خَارج السرب")
 CHANNEL_LINK = getenv("CHANNEL_LINK", "cecrr")
-OWNER_CHANNEL = getenv("OWNER_CHANNEL", "https://t.me/cecrr")
+OWNER_CHANNEL = getenv("OWNER_CHANNEL", "https://t.me/L_K_VV")
 
 
 FAILED = "https://graph.org/file/cd2bf6082397483175f17.jpg"
@@ -48,7 +48,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/yousef1yt/Source_Y",
+    "https://github.com/HMD7SLK/Source_HMD",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Yousef")
 GIT_TOKEN = getenv(
