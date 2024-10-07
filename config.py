@@ -50,7 +50,7 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/BASIL8WB/Source_Basil",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "BASl")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Yousef")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
