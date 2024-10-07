@@ -22,20 +22,20 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://toxi:toxiiiic1234@atlasclus
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 2000))
 
-# 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 ⛥ 𓏺 Yousef .tele_https://t.me/y_o_v
-LOGGER_ID = int(getenv("OWNER_ID","1872738364"))
+# 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 ⛥ 𓏺 Yousef .tele_https://t.me/cscri
+LOGGER_ID = int(getenv("OWNER_ID","966544804"))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6094238403))
+OWNER_ID = int(getenv("OWNER_ID", 966544804))
 # 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 ⛥ 𓏺 Yousef .tele_https://t.me/y_o_v
-YAFA_CHANNEL = getenv("YAFA_CHANNEL", "https://t.me/L_K_VV")
+YAFA_CHANNEL = getenv("YAFA_CHANNEL", "https://t.me/cscrz")
 YAFA_NAME = getenv("YAFA_NAME", "• اضغط هنا للاشتراك •")#لاتبعصها
-CHANNEL_SUDO = getenv("CHANNEL_SUDO", "cecrr")# Fill # Fill this variable if your upstream repository is private
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/B_a_r/10119")#قناة السورس
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/L_K_VV")
+CHANNEL_SUDO = getenv("CHANNEL_SUDO", "cscrz")# Fill # Fill this variable if your upstream repository is private
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/cscrz")#قناة السورس
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/cscrz")
 CHANNEL_NAME = getenv("CHANNEL_NAME", "كِتابات خَارج السرب")
-CHANNEL_LINK = getenv("CHANNEL_LINK", "cecrr")
-OWNER_CHANNEL = getenv("OWNER_CHANNEL", "https://t.me/L_K_VV")
+CHANNEL_LINK = getenv("CHANNEL_LINK", "cscrz")
+OWNER_CHANNEL = getenv("OWNER_CHANNEL", "https://t.me/cscrz")
 
 
 FAILED = "https://graph.org/file/cd2bf6082397483175f17.jpg"
