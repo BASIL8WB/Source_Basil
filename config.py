@@ -48,7 +48,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/BASIL8WB/Source_Basil/actions",
+    "https://github.com/BASIL8WB/Source_Basil",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "BASIL")
 GIT_TOKEN = getenv(
