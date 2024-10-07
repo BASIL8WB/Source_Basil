@@ -4,7 +4,7 @@ from os import getenv
 from dotenv import load_dotenv
 from pyrogram import filters
 
-super_sudoers = [6094238403]
+super_sudoers = [966544804]
 
 load_dotenv()
 
@@ -48,9 +48,9 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/HMD7SLK/Source_HMD",
+    "https://github.com/BASIL8WB/Source_Basil/actions",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Yousef")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "BASIL")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
